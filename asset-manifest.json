@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://minku-singh.github.io/csb-jpc86c/static/css/main.d97ad378.chunk.css",
+    "main.js": "https://minku-singh.github.io/csb-jpc86c/static/js/main.5e27f978.chunk.js",
+    "main.js.map": "https://minku-singh.github.io/csb-jpc86c/static/js/main.5e27f978.chunk.js.map",
+    "runtime-main.js": "https://minku-singh.github.io/csb-jpc86c/static/js/runtime-main.b478280a.js",
+    "runtime-main.js.map": "https://minku-singh.github.io/csb-jpc86c/static/js/runtime-main.b478280a.js.map",
+    "static/js/2.4f561b3a.chunk.js": "https://minku-singh.github.io/csb-jpc86c/static/js/2.4f561b3a.chunk.js",
+    "static/js/2.4f561b3a.chunk.js.map": "https://minku-singh.github.io/csb-jpc86c/static/js/2.4f561b3a.chunk.js.map",
+    "index.html": "https://minku-singh.github.io/csb-jpc86c/index.html",
+    "static/css/main.d97ad378.chunk.css.map": "https://minku-singh.github.io/csb-jpc86c/static/css/main.d97ad378.chunk.css.map",
+    "static/js/2.4f561b3a.chunk.js.LICENSE.txt": "https://minku-singh.github.io/csb-jpc86c/static/js/2.4f561b3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b478280a.js",
+    "static/js/2.4f561b3a.chunk.js",
+    "static/css/main.d97ad378.chunk.css",
+    "static/js/main.5e27f978.chunk.js"
+  ]
+}
